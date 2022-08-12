@@ -1,0 +1,5 @@
+1. array([8.20945483e-03, 9.60653750e+05, 4.26566374e-04]) MAE, MRE, RMSE.
+2. loss: 0.0085 - mean_absolute_percentage_error: 856695.1875 - mean_squared_error: 4.6610e-04
+
+1. trained with LSTM
+2. trained with Stacked Autoencoder
